@@ -34,19 +34,19 @@ The dashboard consists of multiple report pages that provide insights into diffe
 * Total appointments, rescheduled, and cancelled
 * Average patient wait time
 
-![]([/Images/E-motion-1.png)
+![](/Images/E-motion-1.png)
 
 4. Employee Performance
 * Total patients and sessions handled by each physiotherapist
 * Average rating per employee
 
-![]([/Images/E-motion-2.png)
+![](/Images/E-motion-2.png)
 
 5. Insurance Dashboard
 * Claim approval, pending, and rejection rates by provide.
 * Volume and revenue contribution by insurance companies
 
-![]([/Images/E-motion-3.png)
+![](/Images/E-motion-3.png)
 
 # Tools & Technologies Used
 * Power BI Desktop for dashboard creation and interactivity
